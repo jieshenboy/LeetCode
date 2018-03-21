@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc3064a3-abd9-43a7-8869-a51d3bfd0561" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/BFS.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/factorial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/quicksort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/voted.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/weightBFS.py" />
-      <change beforePath="$PROJECT_DIR$/code/greet.py" afterPath="$PROJECT_DIR$/code/greet.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/cove_states.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,36 +16,17 @@
     <SUITE FILE_PATH="coverage/LeetCode$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1521540386587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/LeetCode$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1521548532808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/LeetCode$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1521542356782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/LeetCode$cove_states.coverage" NAME="cove_states Coverage Results" MODIFIED="1521623581588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/LeetCode$voted.coverage" NAME="voted Coverage Results" MODIFIED="1521544076299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/LeetCode$weightBFS.coverage" NAME="weightBFS Coverage Results" MODIFIED="1521551859145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BFS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/BFS.py">
+      <file leaf-file-name="cove_states.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/cove_states.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weightBFS.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/weightBFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quicksort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/quicksort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="414">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,6 +54,8 @@
         <option value="$PROJECT_DIR$/code/voted.py" />
         <option value="$PROJECT_DIR$/code/BFS.py" />
         <option value="$PROJECT_DIR$/code/weightBFS.py" />
+        <option value="$PROJECT_DIR$/code/NP-C.py" />
+        <option value="$PROJECT_DIR$/code/cove_states.py" />
       </list>
     </option>
   </component>
@@ -149,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.weightBFS">
+  <component name="RunManager" selected="Python.cove_states">
     <configuration name="BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +145,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cove_states" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -182,7 +158,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/cove_states.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,19 +222,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.factorial" />
-      <item index="1" class="java.lang.String" itemvalue="Python.quicksort" />
-      <item index="2" class="java.lang.String" itemvalue="Python.voted" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BFS" />
-      <item index="4" class="java.lang.String" itemvalue="Python.weightBFS" />
+      <item index="0" class="java.lang.String" itemvalue="Python.quicksort" />
+      <item index="1" class="java.lang.String" itemvalue="Python.voted" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BFS" />
+      <item index="3" class="java.lang.String" itemvalue="Python.weightBFS" />
+      <item index="4" class="java.lang.String" itemvalue="Python.cove_states" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.weightBFS" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BFS" />
-        <item index="2" class="java.lang.String" itemvalue="Python.voted" />
-        <item index="3" class="java.lang.String" itemvalue="Python.quicksort" />
-        <item index="4" class="java.lang.String" itemvalue="Python.factorial" />
+        <item index="0" class="java.lang.String" itemvalue="Python.cove_states" />
+        <item index="1" class="java.lang.String" itemvalue="Python.weightBFS" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BFS" />
+        <item index="3" class="java.lang.String" itemvalue="Python.voted" />
+        <item index="4" class="java.lang.String" itemvalue="Python.quicksort" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +262,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -458,8 +434,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/weightBFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="552">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/NP-C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/cove_states.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
